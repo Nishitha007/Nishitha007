@@ -1,5 +1,6 @@
 ![Banner](https://i.imgur.com/EquAbpS.png)
 
+
 <h1 align="center">Hi 👋, I'm Nishitha Gogikar</h1>
 <h3 align="center">🎓 AIML Undergrad at MLR Institute of Technology 💡 Passionate about AI, ML, Generative AI, and Product Management 🎨 Senior Graphic Designer | UI/UX Enthusiast</h3>
 
